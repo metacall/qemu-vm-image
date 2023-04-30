@@ -2,7 +2,7 @@
 
 Linux image for running metacall with Qemu.
 
-## How to Generate the Distributable Tarballs
+## How to Build VM Image
 
 This will generate all tarballs in the `out` directory. All logs will be stored in `dist.log`. This process will test if tarballs are correct too.
 
